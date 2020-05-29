@@ -10,6 +10,8 @@ def mainmenu():
     <html>
     <body>
     <center><h1>Hello World! 2020-05-29.</h1><br/>
+    <p></p>
+    <center><h2>Piper Training Wave3 is over.</h2><br/>
     </body>
     </html>"""
 
